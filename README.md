@@ -1,3 +1,5 @@
+# Name:DANIEL.C
+# ref no:23008937
 ## AIM:
 To develop a website to display details about the places around my house.
 
@@ -165,7 +167,22 @@ temple.html :
 
 
 ## Output:
+index.html:
+![Screenshot 2023-11-21 221009](https://github.com/Ajayreddy-2006/Ex-04-webTech_imagemap/assets/145742508/ef8c6a84-7fc9-4b4e-a4ea-5ad444b8efea)
 
+college.html:
+![image](https://github.com/Ajayreddy-2006/Ex-04-webTech_imagemap/assets/145742508/a2c59a20-b09e-4f3f-be0c-3ff01fc5575e)
+
+
+SV Cinemas:
+![image](https://github.com/Ajayreddy-2006/Ex-04-webTech_imagemap/assets/145742508/583c84c4-c55f-45f7-bf42-95e334513d29)
+
+
+tabunhotel.html:
+![image](https://github.com/Ajayreddy-2006/Ex-04-webTech_imagemap/assets/145742508/5ed0b875-4e0e-481e-9d6b-b5bce39ae173)
+
+temple.html:
+![Screenshot 2023-11-21 220447](https://github.com/Ajayreddy-2006/Ex-04-webTech_imagemap/assets/145742508/a3c4f463-38cd-45e5-9517-f9a1ce7ae99f)
 
 ## Result:
 image-maps has been created succesfully
